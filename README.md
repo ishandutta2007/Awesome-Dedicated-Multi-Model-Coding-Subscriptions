@@ -11,7 +11,7 @@
 
 <p align="center">
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-Dedicated-Multi-Model-Coding-Subscriptions/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Dedicated-Multi-Model-Coding-Subscriptions?style=social" alt="GitHub stars"/></a>
+<a href="https://github.com/ishandutta2007/Awesome-Dedicated-Multi-Model-Coding-Subscriptions/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Dedicated-Multi-Model-Coding-Subscriptions?style=social" alt="GitHub_Stars"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-Dedicated-Multi-Model-Coding-Subscriptions/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Dedicated-Multi-Model-Coding-Subscriptions?style=social" alt="GitHub forks"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-Dedicated-Multi-Model-Coding-Subscriptions/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Dedicated-Multi-Model-Coding-Subscriptions" alt="GitHub issues"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-Dedicated-Multi-Model-Coding-Subscriptions/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License"/></a>
@@ -77,9 +77,9 @@ The following SaaS platforms provide unified, flat-rate, or managed subscription
 
 ## 💻 Open-Source GitHub Projects
 
-Curated open-source projects for self-hosted multi-model gateways, coding agents, and token optimization. Each repository includes its official star count badge linking directly to its stargazer community, **sorted in descending order by GitHub Stars**:
+Curated open-source projects for self-hosted multi-model gateways, coding agents, and token optimization. Each repository includes its official Stars_Count badge linking directly to its stargazer community, **sorted in descending order by GitHub_Stars**:
 
-| Rank | Repository & Star Badge | Category | Focus & Key Capabilities |
+| Rank | Repository & Stars_Badge | Category | Focus & Key Capabilities |
 | :---: | :--- | :--- | :--- |
 | 1 | **[OpenCode](https://github.com/sst/opencode)**<br/>[![Stars](https://img.shields.io/github/stars/sst/opencode?style=social&color=white)](https://github.com/sst/opencode/stargazers) | Coding Agent & Harness | Multi-provider agentic coding harness (Apache-2.0). Connects Anthropic, OpenAI, Google Vertex, and local Ollama. Non-interactive NDJSON streams, MCP protocol support, and session restoration. |
 | 2 | **[Open-WebUI](https://github.com/open-webui/open-webui)**<br/>[![Stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social&color=white)](https://github.com/open-webui/open-webui/stargazers) | Unified Gateway & UI | Extensible, self-hosted web interface and unified API proxy supporting OpenAI, Ollama, Anthropic, and custom agents with granular role-based access control. |
