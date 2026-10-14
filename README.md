@@ -30,6 +30,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
 
 - [Open-Source GitHub Projects](#open-source-github-projects)
@@ -40,67 +41,24 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
+## Sector Overview & Market Dynamics
+
+The global AI coding assistant and agentic software development market is estimated at **$4.1B to $9.8B in 2026** (scaling past $30B by 2031 with a ~21.5% CAGR). Market dynamics reflect a **hybrid, highly fragmented developer layer alongside a concentrated foundation layer**: while frontier model weights and enterprise distribution are concentrated among hyperscalers (Anthropic, OpenAI, Microsoft, Google), the IDE, CLI agent, and multi-model gateway layer is fiercely competitive and fragmented, driven by low developer brand loyalty, rapid agentic innovation, and high switching velocity.
+
 ## SaaS/Hosted Platforms
 
-
-
-- **[DevPass by LLM Gateway](https://devpass.llmgateway.io/pricing)**  
-
-  Flat-rate subscription turning every dollar into **$3 of model usage** at provider list rates. Three tiers: **Lite $29/mo** (evenings/weekends), **Pro $79/mo** (daily driver), **Max $179/mo** (all-day multi-agent). All 200+ models included—Claude, GPT-5, Gemini, GLM, Qwen, Kimi, DeepSeek. Works with Claude Code, OpenCode, Cline, Cursor, Aider, and any OpenAI-compatible tool. **Frontier fair-use** covers premium models ($5+/M input or $15+/M output) as weekly allowance on top of monthly usage. Real-time dashboard with per-request cost. 7-day first-month guarantee .
-
-
-
-- **[Synthetic.new](https://synthetic.new/pricing)**  
-
-  Subscription at **$1/day ($30/mo)** with **3x higher rate limits than Claude's $20/mo plan**. 500 requests per 5 hours. Includes always-on models (context lengths up to 512K tokens) and embedding models at no extra charge. Works with any OpenAI-compatible tool—Roo, Cline, Octofriend, and more. Optional usage-based pricing for enterprise .
-
-
-
-- **[Nous Portal Ultra](https://dev.to/zackchew/nous-portal-explained-plans-models-tools-and-hermes-cloud-9hh)**  
-
-  One subscription for **248 models plus 29 embedding models**—Claude, GPT, Gemini, Llama, Mistral, DeepSeek, Qwen, Grok, and Nous's own Hermes series. **Tool Gateway included** with paid tiers: web search/scraping (Firecrawl), image generation (FAL, Krea), video generation (Veo, Kling, Seedance), speech (Whisper, TTS), browser automation (Browser Use), and code execution (Modal sandboxes). **Plus at $20/mo returns $22 in credits**. Free tier: $0/mo, 50 RPM, 500K TPM, free-model catalog only. Powered by OpenRouter for third-party models .
-
-
-
-- **[Command Code Go](https://commandcode.ai/docs/plans/go)**  
-
-  **$1/month** for international developers. Includes **54/88 models** with usage limits: $3 per 5 hours, $6 per week, $10 per month. Model-specific request counts range from 64 requests/5hr (Grok 4.5) to 8,180 requests/5hr (Muse Spark Contributor). Per-model monthly credits with bigger allowance on negotiated-capacity models. Rolling windows stay at $3/5hr and $6/7days .
-
-
-
-- **[OpenCode Go](https://opencode.ai/docs/ar/go/)**  
-
-  Multi-model subscription with per-model monthly limits. Model catalog includes LongCat 2.5 Preview (free, unlimited for limited time), GPT 6 Luna ($15/mo limit), Grok 4.7 ($15), Qwen3.8 Max ($15), DeepSeek V4 Pro ($15), MiniMax M3 ($60), and many more. Cheaper models allow more requests; pricier models allow fewer .
-
-
-
-- **[Continue Dev Pro](https://docs.continue.dev/)**  
-
-  Open-source extension (Apache 2.0) with **Solo tier at $0/developer/month**. Bring your own model—local via Ollama costs nothing, cloud APIs billed directly by provider. **Teams at $20/seat/month** for governance: managed hosting, shared private assistants, access controls, BYOK. Enterprise custom-priced with SSO, on-prem/self-hosted deployment .
-
-
-
-- **[Codeium Team](https://omr.com/en/reviews/product/codeium/pricing)**  
-
-  **Teams at $35/user/month** (analytics, session management, automated zero-data retention, increased indexing limits, basic context awareness, remote indexing, multi-repo indexing, Forge beta). **Teams Ultimate at $90/user/month** .
-
-
-
-- **[Tabnine Pro](https://www.tabnine.com/pricing/)**  
-
-  **$12/user/month** (free for 90 days). AI chat agents in IDE, agents personalized to your codebase, switchable AI chat models including Tabnine and third-party providers, enterprise-grade security. **Per-user pricing scales steeply**: $39-$59/user/month for enterprise, putting a 500-developer org at $234K-$354K/year before BYOK token costs .
-
-
-
-- **[Bito AI Enterprise](https://bito.ai/pricing/)**  
-
-  Team **$12/seat/month** (annually) or $15 monthly—5K lines/seat/month included, $5 per 1K after. Professional **$20/seat/month** annually. Enterprise custom with SSO/SAML, on-prem/self-hosted, custom contract redlines. No code storage or model training. SOC 2 Type II certified .
-
-
-
-- **[Supermaven Pro](https://supermaven.com/pricing)**  
-
-  **$10/month** Pro adds 1 million token context window, adapts to coding style, largest most intelligent model, $5/month Supermaven Chat credits. Team plan with centralized user management .
+| Product | Company Size / Scale (Valuation / Revenue) | Starting Paid Pricing | Free Tier / Free Trial Limits | Key Highlights & Supported Models |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Codeium](https://omr.com/en/reviews/product/codeium/pricing)** | **$1.25B - $2.85B Valuation** (~$40M-$82M ARR; Series C / Windsurf) | **$35 / user / month** (Teams; Ultimate at $90/mo) | **Free forever plan**: Unlimited single-line and multi-line code completions, limited chat assistant turns, zero data retention on basic tier | Full-featured AI IDE & plugin suite (Windsurf), multi-repo indexing, remote indexing, enterprise audit controls. |
+| **[Tabnine](https://www.tabnine.com/pricing/)** | **~$102M Total Funding** (Series B / Telstra & Atlassian Ventures) | **$12 / user / month** (Pro; Enterprise at $39–$59/mo) | **90-Day Free Trial** of Pro (full IDE chat agents, custom codebase context, model switching; basic completion forever thereafter) | IDE chat agents personalized to codebase, switchable LLMs (Tabnine custom, GPT-4o, Claude 3.5), on-prem or VPC deployment options. |
+| **[Supermaven](https://supermaven.com/pricing)** | **~$48M Valuation** ($12M Series A; Acquired by Cursor/Anysphere) | **$10 / month** (Pro; Team tier available) | **Free forever plan**: Standard-speed completions with 300,000 token context window (Pro unlocks Babbler model & 1M context + $5 chat credit) | Ultra-low latency code completion engine with 1M context window; integrates directly into developer editor workflows. |
+| **[Bito AI](https://bito.ai/pricing/)** | **~$8.9M Total Funding** (Seed / Vela Partners & Eniac) | **$12 / seat / month** (billed annually, or $15/mo monthly) | **Free forever plan**: Up to 5K lines of code/seat/mo, basic AI chat, CLI commands, and automated code reviews | 10x developer productivity tools, code review automation, security/vulnerability scanning, SOC 2 Type II compliant. |
+| **[Continue Dev Pro](https://docs.continue.dev/)** | **~$3.0M Seed Funding** (Early-stage venture-backed) | **$20 / seat / month** (Teams governance; Enterprise custom) | **Free forever plan (Solo tier: $0/dev/mo)**: Unlimited completions & chat via local models (Ollama) or BYOK cloud endpoints | Open-source (Apache 2.0) IDE autopilot extension; Teams plan adds central assistant configuration, secrets management, and team analytics. |
+| **[Nous Portal Ultra](https://dev.to/zackchew/nous-portal-explained-plans-models-tools-and-hermes-cloud-9hh)** | **Seed / Early Stage** (Nous Research Ecosystem) | **$20 / month** (Plus; returns $22 in usage credits) | **Free forever plan ($0/mo)**: 50 requests/min (RPM), 500,000 tokens/min (TPM), access restricted to curated free-model catalog | Unified subscription for 248 models + 29 embeddings (Claude, GPT, Gemini, Llama, Hermes), built-in Tool Gateway (scraping, sandbox execution). |
+| **[DevPass by LLM Gateway](https://devpass.llmgateway.io/pricing)** | **Bootstrapped / Indie** | **$29 / month** (Lite; Pro at $79/mo, Max at $179/mo) | **Free forever plan**: Unlimited Bring Your Own Key (BYOK) gateway proxying; 7-day money-back satisfaction guarantee on paid tiers | Flat-rate 3x value multiplier ($3 usage per $1 spent) across 200+ frontier models (Claude, GPT-5, Gemini, DeepSeek, GLM) with frontier fair-use pools. |
+| **[Synthetic.new](https://synthetic.new/pricing)** | **Bootstrapped / Indie** | **$30 / month** ($1/day flat rate; enterprise usage options) | **Free trial credit**: $10 promotional sign-up credits on registration; no permanent free usage tier | High-speed, privacy-first inference with 500 requests per 5 hours (3x Claude rate limits), 512K context, built-in embedding models at no extra fee. |
+| **[Command Code Go](https://commandcode.ai/docs/plans/go)** | **Bootstrapped / Indie** | **$1 / month** (Go plan; GOAT plan at $10/mo) | **Free trial**: Initial welcome credits on signup; Go plan offers $10/mo token pool ($3/5hr, $6/week caps) | Terminal-first coding agent (taste-1 adaptive engine); access to 54+ frontier & open models (Grok, Muse Spark, Qwen, DeepSeek). |
+| **[OpenCode Go](https://opencode.ai/docs/ar/go/)** | **Bootstrapped / Indie** | **$10 / month** (Go starting tier) | **Free forever plan**: Unlimited free-tier access to preview models (e.g., LongCat 2.5 Preview) with daily rate limits | Bundled multi-model coding agent access with per-model monthly quotas (GPT, Grok, Qwen, DeepSeek V4 Pro, MiniMax M3). |
 
 
 
